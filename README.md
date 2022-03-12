@@ -10,7 +10,10 @@
 
 ## Visualization
 * Monthly trends
+* ![](https://github.com/paramshah31/sales-analysis/blob/main/images/monthlytrends.png)
+
 * Hourly Trends
+* ![](https://github.com/paramshah31/sales-analysis/blob/main/images/hourlytrends.png)
 
 ## Conclusion
 * People shop more between 11-12 am & 6-8 pm
